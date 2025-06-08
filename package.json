@@ -1,0 +1,18 @@
+{
+  "name": "minitask1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-hash": "^3.1.0",
+    "perf_hooks": "^0.0.1",
+    "util": "^0.12.5"
+  }
+}
